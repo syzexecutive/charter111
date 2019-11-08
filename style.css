@@ -1,4 +1,4 @@
-﻿body{
+body{
     position:relative;
 }
 body .ch_button i,
@@ -49,7 +49,7 @@ body:before {
 /* Opera < 12.1 */
 
 body #header_menu .contact_menu>.icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0 0 !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0 0 !important;
     background-size:150px 200px !important;
 }
 body #header_menu .menu>.icon{
@@ -64,7 +64,7 @@ body.en #header_menu .menu{
     padding-right: 0px !important;
 }
 body #header_menu .menu .arrow_icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0px 0px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0px 0px !important;
     background-size:150px 200px !important;
 }
 body #header_menu .menu.panel_menu .separator{display:none;}
@@ -82,48 +82,48 @@ body .submenu_blog{
 }
 /*
 body #header_menu .submenu .box.mobile .ch_icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0px -40px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0px -40px !important;
     background-size:100px 200px !important;
 }
 body #header_menu .submenu .box.email .ch_icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0px -60px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0px -60px !important;
     background-size:100px 200px !important;
 }
 body #header_menu .submenu .box.address .ch_icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0px -80px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0px -80px !important;
     background-size:100px 200px !important;
 }
 body #header_menu .submenu .box.card-bank .ch_icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0px -100px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0px -100px !important;
     background-size:100px 200px !important;
 }
 body #mobile_sidebar .sb_menu ul li.home .icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0px -120px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0px -120px !important;
     background-size:100px 200px !important;
 }
 body #mobile_sidebar .sb_menu ul li.ticket .icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0px -140px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0px -140px !important;
     background-size:100px 200px !important;
 }
 body #mobile_sidebar .sb_menu ul li.help .icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat -20px 0px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat -20px 0px !important;
     background-size:100px 200px !important;
 }
 body #mobile_sidebar .sb_menu ul li.about .icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0px -160px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0px -160px !important;
     background-size:100px 200px !important;
 }
 body #mobile_sidebar .sb_menu ul li.law .icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0px -180px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0px -180px !important;
     background-size:100px 200px !important;
 }
 body #mobile_sidebar .sb_menu ul li.logout .icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat -20px -20px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat -20px -20px !important;
     background-size:100px 200px !important;
 }
 */
 body #header_menu .panel_menu>.icon{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat -20px -60px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat -20px -60px !important;
     background-size:150px 200px !important;
 }
 /* ---------------header--------------- */
@@ -201,7 +201,7 @@ body.ar #header_phone span {
     display: none;
 }
 body #header_phone:before{
-    background:url(https://charterdesign.ir/templates/05/iconss.png) no-repeat 0px -40px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat 0px -40px !important;
     background-size:150px 200px !important;
     content:'';
     position:absolute;
@@ -326,16 +326,16 @@ body.ar #servicess_section {
 }
 
 #servicess_section .item1 .head .icon{
-    background:url(https://charterdesign.ir/templates/05/icons2.png) no-repeat 0px 0px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/icons2.png) no-repeat 0px 0px !important;
 }
 #servicess_section .item2 .head .icon{
-    background:url(https://charterdesign.ir/templates/05/icons2.png) no-repeat 0px -100px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/icons2.png) no-repeat 0px -100px !important;
 }
 #servicess_section .item3 .head .icon{
-    background:url(https://charterdesign.ir/templates/05/icons2.png) no-repeat 0px -200px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/icons2.png) no-repeat 0px -200px !important;
 }
 #servicess_section .item4 .head .icon{
-    background:url(https://charterdesign.ir/templates/05/icons2.png) no-repeat 0px -300px !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/icons2.png) no-repeat 0px -300px !important;
 }
 #servicess_section .item .head .icon{
     margin: 0 auto;
@@ -598,14 +598,14 @@ body .content_title_box .content_title:before{
 }
 .content_title_box .content_title_en{ display:none}
 body .special_result .sr_table .t_head{
-    background: url("https://charterdesign.ir/templates/05/city-THR.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-THR.png") left center !important;
     height:110px;
     padding:0 15px;
     position: relative;
 }
 
 body .special_result .sr_table .t_head:before{
-    background: url("https://charterdesign.ir/templates/05/city_bg.png") no-repeat center bottom !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city_bg.png") no-repeat center bottom !important;
     display: block;
     width: 100%;
     height: 30px;
@@ -616,64 +616,64 @@ body .special_result .sr_table .t_head:before{
     background-size: 100% !important;
 }
 body .sr_table.sr_table_THR .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-THR.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-THR.png") left center !important;
 }
 body .sr_table.sr_table_MHD .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-MHD.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-MHD.png") left center !important;
 }
 body .sr_table.sr_table_KIH .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-KIH.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-KIH.png") left center !important;
 }
 body .sr_table.sr_table_AWZ .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-AWZ.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-AWZ.png") left center !important;
 }
 body .sr_table.sr_table_IFN .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-IFN.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-IFN.png") left center !important;
 }
 body .sr_table.sr_table_SYZ .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-SYZ.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-SYZ.png") left center !important;
 }
 body .sr_table.sr_table_TBZ .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-TBZ.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-TBZ.png") left center !important;
 }
 body .sr_table.sr_table_RAS .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-RAS.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-RAS.png") left center !important;
 }
 body .sr_table.sr_table_NJF .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-NJF.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-NJF.png") left center !important;
 }
 body .sr_table.sr_table_GSM .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-GSM.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-GSM.png") left center !important;
 }
 body .sr_table.sr_table_BND .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-BND.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-BND.png") left center !important;
 }
 body .sr_table.sr_table_ABD .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-ABD.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-ABD.png") left center !important;
 }
 body .sr_table.sr_table_KSH .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-KSH.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-KSH.png") left center !important;
 }
 body .sr_table.sr_table_BGW .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-BGW.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-BGW.png") left center !important;
 }
 body .sr_table.sr_table_KER .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-KER.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-KER.png") left center !important;
 }
 body .sr_table.sr_table_IST .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-IST.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-IST.png") left center !important;
 }
 body .sr_table.sr_table_DBX .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-DBX.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-DBX.png") left center !important;
 }
 body .sr_table.sr_table_ZAH .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-ZAH.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-ZAH.png") left center !important;
 }
 body .sr_table.sr_table_SRY .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-SRY.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-SRY.png") left center !important;
 }
 body .sr_table.sr_table_IIL .t_head {
-    background: url("https://charterdesign.ir/templates/05/city-IIL.jpg") left center !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city-IIL.png") left center !important;
 }
 body .special_result .sr_table .t_table{
     background:rgba(0,0,0,0.5);
@@ -780,7 +780,7 @@ body .special_result .sr_table .line:hover .city{
 }
 /*  */
 body .cssload-content{
-    background:url(https://charterdesign.ir/templates/05/loading281.gif) no-repeat 0 0 !important;
+    background:url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/loading281.gif) no-repeat 0 0 !important;
     background-size:100% !important;
     width:100px;
     height:100px;
@@ -853,7 +853,7 @@ body .sr_table .t_head{
 }
 
 .scrollToTop{
-    background: #f13b4f url(https://charterdesign.ir/templates/05/iconss.png) no-repeat -120px 0;
+    background: #f13b4f url(https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png) no-repeat -120px 0;
     background-size:150px 200px !important;
     position: fixed;
     z-index: 999;
@@ -940,7 +940,7 @@ body .widg_list ul li:hover a {
     margin: 0 !important;
 }
 #homelinks_section ul li:before{
-    background: url("https://charterdesign.ir/templates/05/iconss.png") 0 -20px no-repeat;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/iconss.png") 0 -20px no-repeat;
     background-size:150px 200px !important;
     content:'';
     position:absolute;
@@ -1014,7 +1014,7 @@ body #footer_logo .container{
     position:relative;
 }
 body #footer_logo .container:before{
-    background: url("https://charterdesign.ir/templates/05/footer_logo_bg.png") 0 0 no-repeat;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/footer_logo_bg.png") 0 0 no-repeat;
     /*content:'';*/
     position:absolute;
     right:0px;
