@@ -233,7 +233,7 @@ body #header_menu .menu.active:before,
 body #header_menu .menu:before{ display:none !important;}
 body .submenu .head_menu{display:none;}
 body #search_flight.searchPanel .text_box {
-    border: 1px solid #7e7e7e;
+    border: 1px solid #f13b4f;
     border-radius: 10px;
 }
 body #search_flight .date_icon,
@@ -605,7 +605,9 @@ body .special_result .sr_table .t_head{
 }
 
 body .special_result .sr_table .t_head:before{
-    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city_bg.png") no-repeat center bottom !important;
+    background: url("https://cdn.jsdelivr.net/gh/syzexecutive/charter111/pics/city_bg.png") no-repeat center bottom !
+
+important;
     display: block;
     width: 100%;
     height: 30px;
@@ -1253,7 +1255,9 @@ body .resu .select a,
 body .search_result_box .tabbs .active {
     background: rgba(255, 115, 0, 1);
     background: -moz-linear-gradient(left, rgba(255, 115, 0, 1) 0%, rgba(255, 162, 0, 1) 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255, 115, 0, 1)), color-stop(100%, rgba(255, 162, 0, 1)));
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255, 115, 0, 1)), color-stop(100%, rgba(255, 
+
+162, 0, 1)));
     background: -webkit-linear-gradient(left, rgba(255, 115, 0, 1) 0%, rgba(255, 162, 0, 1) 100%);
     background: -o-linear-gradient(left, rgba(255, 115, 0, 1) 0%, rgba(255, 162, 0, 1) 100%);
     background: -ms-linear-gradient(left, rgba(255, 115, 0, 1) 0%, rgba(255, 162, 0, 1) 100%);
@@ -1264,7 +1268,9 @@ body .resu .select a:hover{
 
     background: rgba(255, 115, 0, 1);
     background: -moz-linear-gradient(left, rgba(255, 115, 0, 1) 0%, rgba(255, 162, 0, 1) 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255, 115, 0, 1)), color-stop(100%, rgba(255, 162, 0, 1)));
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255, 115, 0, 1)), color-stop(100%, rgba(255, 
+
+162, 0, 1)));
     background: -webkit-linear-gradient(left, rgba(255, 115, 0, 1) 0%, rgba(255, 162, 0, 1) 100%);
     background: -o-linear-gradient(left, rgba(255, 115, 0, 1) 0%, rgba(255, 162, 0, 1) 100%);
     background: -ms-linear-gradient(left, rgba(255, 115, 0, 1) 0%, rgba(255, 162, 0, 1) 100%);
@@ -1276,8 +1282,12 @@ body #sidebar_result .sb_title{
     background: rgb(255,162,0); /* Old browsers */
     background: -moz-linear-gradient(top, rgba(255,162,0,1) 33%, rgba(255,115,0,1) 99%); /* FF3.6-15 */
     background: -webkit-linear-gradient(top, rgba(255,162,0,1) 33%,rgba(255,115,0,1) 99%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, rgba(255,162,0,1) 33%,rgba(255,115,0,1) 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa200', endColorstr='#ff7300',GradientType=0 ); /* IE6-9 */
+    background: linear-gradient(to bottom, rgba(255,162,0,1) 33%,rgba(255,115,0,1) 99%); /* W3C, IE10+, FF16+, Chrome26+, 
+
+Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa200', endColorstr='#ff7300',GradientType=0 ); 
+
+/* IE6-9 */
     margin: 0;
     padding: 5px 15px;
     color: #fff;
@@ -1490,7 +1500,7 @@ body #main_nav #other_menu {margin-right: 150px !important;}
 }
 @media only screen and (max-width: 440px){
     body #search_flight .line_box_date{ clear:none;}
-    body .ch_button{width: 45% !important; line-height: 32px !important; margin-top: 0px;}
+    body .ch_button{width: 47% !important; line-height: 32px !important; margin-left: 87px;}
     body #search_flight .line_box.line_box_maghsad,
     body #search_flight .line_box_date {clear: none; }
 
@@ -1524,7 +1534,7 @@ body #main_nav #other_menu {margin-right: 150px !important;}
     body #sidebar {
         padding-top: 20px;
         height: 250px;
-        background: #f2f2f2;
+        background: #f13b4f;
     }
     body #wrapper{ padding-top: 0px;}
 }
