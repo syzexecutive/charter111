@@ -1,4 +1,4 @@
-﻿jQuery(function () {
+jQuery(function () {
     jQuery( "#logo" ).after( "<h3 id='shoar_top'> رزرو هتل و تور </h3>" );
     jQuery( "#logo" ).after( "<div id='header_phone'><a href='tel:+989120762694'><span> </span> 09120762694 </a></div>" );
     jQuery( "#header_bg" ).append("<h2 id='shoar'>چارتر111 - سامانه رزرواسیون بلیط هواپیما، قطار و اتوبوس</h2>" );
@@ -23,11 +23,5 @@
         "</a>" +
         "<div class='clear'></div>" +
         "</div></div>" );
-    jQuery( "#address_footer" ).after( "<div class='footer_about'>" +
-        "پیشتاز در فروش بلیط هواپیما" +
-        "<br>" +
-        "این سایت با هدف ارائه خدمات نوین در صنعت گردشگری سیستم فروش پروازهای سیستمی و چارتری را راه اندازی نمود" +
-        // "و کلیه‌ی مسئولیت‌های صدور بلیط برعهده‌ی این آژانس است." +
-        "</div>";
     jQuery('head').append('<link rel="apple-touch-startup-image" href="https://cdn.jsdelivr.net/gh/syzexecutive/charter111/icons/launch.png" />');
 });
