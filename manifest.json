@@ -1,0 +1,23 @@
+{
+    "short_name": "CH111",
+    "name": "Charter111",
+    "description": "نیکی چارتر - فروش بلیط هواپیما، بلیط قطار، بلیط اتوبوس",
+    "icons": [
+      {
+        "src": "https://cdn.jsdelivr.net/gh/syzexecutive/charter111/icons/charter111_192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/syzexecutive/charter111/icons/charter111_512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": ".",
+    "theme_color": "#ffffff"
+  }
